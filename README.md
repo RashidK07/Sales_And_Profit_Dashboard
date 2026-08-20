@@ -41,11 +41,14 @@ This project presents an interactive Tableau dashboard designed to analyze sales
 ```text
 Sales_And_Profit_Dashboard/
 │
-├── Data/
-│   └── Sales dataset.csv
+├── Sales and Profit Performance Dashboard Mini Project.docx
 │
-├── Tableau/
-│   └── Tableau_Mini_Project.twbx
+|
+├── Sales dataset.csv
+| 
+│
+├── Tableau_Mini_Project.twbx
+│    
 │
 ├── Screenshots/
 │   └── dashboard.png
